@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proj5link"
+    }
+  },
+  "defaultProject": "proj5link",
+  "cli": {
+    "analytics": "5d8ed57c-3600-4df9-a605-4343128f9627"
+  }
 }
